@@ -5,7 +5,7 @@ Can we actually predict stock prices with machine learning? Investors make educa
 This project utilizes Deep Learning models, Long-Short Term Memory (LSTM) Neural Network algorithm, to predict stock prices. For data with timeframes, recurrent neural networks (RNNs) come in handy but current research have shown that LSTM networks are the most popular and useful variants of RNNs.
 We have used Keras to build a LSTM to predict stock prices using historical stock prices and news data and visualize both the predicted price values over time and the optimal parameters for the model.
 
-## Data Descriptio
+## Data Description
 The dataset consists of:
 Top 5 world news headlines from Kaggle & The opening, closing, adjusted closing, high and low price for 15 companies from Yahoo Finance for approximately eight years (from 08-08-2008 to 01-07-2016).The 15 American based multinational technology companies used in our data are as follows:
 
